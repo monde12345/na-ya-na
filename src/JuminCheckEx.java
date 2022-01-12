@@ -25,8 +25,8 @@ public class JuminCheckEx {
 			System.out.println("sum값 출력: " + sum);
 		
 		//출력 단계
-		scan.close();}
-		
+		}
+		수정
 		
 	}
 
